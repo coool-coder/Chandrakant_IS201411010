@@ -1,1 +1,29 @@
 Upload your assignment here
+
+1) Basic tools useful for system designs are Modelling and Monitoring.
+
+2) Three phases of system designs are i) Conceptional,  ii) Construction and iii) Operational
+
+3) Write one advantage of  each Analytic Model and Simulation Model.
+Ans : Analytic Model - Performance can be
+ determined over a
+ wide continuous
+ range of parameters.
+ Time dependent of
+ steady state
+ models possible
+	Simulation Model - Work load and configuration — can
+ concentrate on parts
+ of system which are
+ bottle neck
+
+4)  Performance is one of the main concerns of those designing and developing any large programming system.
+
+5) Write three  methodologies for writing large systems?
+Ans:
+ i) An algorithmic programming language, which is free of most considerations of efficiency.
+ ii)A compiler and run time environment which permit the development and check out of a large system
+ without reference to its performance 
+iii) The process of making a choice of options and specialization for a particular hardware configuration at
+ a particular location, commonly called system generation, which might also be the opportunity to bind
+ design decisions that relate to performance
